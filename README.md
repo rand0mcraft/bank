@@ -1,1 +1,1 @@
-# bank
+# Self hosted bank app
